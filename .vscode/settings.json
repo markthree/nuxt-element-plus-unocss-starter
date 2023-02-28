@@ -1,0 +1,8 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    "nuxt.config.ts": ".npmrc,.gitignore,LICENSE,tsconfig.json"
+  }
+}
